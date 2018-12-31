@@ -1,5 +1,5 @@
 ---
-title: 爆速でBlogを作成し、公開する
+title: GatsbyでBlogを作成し、公開する
 slug: create-blog-super-fast
 date: 2018-11-15
 language: ja
@@ -7,7 +7,7 @@ tags:
   - gatsby
 ---
 
-[Gatsby](https://www.gatsbyjs.org/)を使って、爆速でBlogを作成し、Firebaseにhostingする
+[Gatsby](https://www.gatsbyjs.org/)を使って、GatsbyでBlogを作成し、Firebaseにhostingする
 
 ## Gatsbyとは
 
