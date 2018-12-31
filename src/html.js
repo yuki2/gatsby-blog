@@ -18,6 +18,10 @@ const HTML = ({
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+        <meta
+          name="google-site-verification"
+          content="3y-WnRf9IYJw_h7te4TQFSaCgpj0djcg3VPnTsXNaHE"
+        />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
