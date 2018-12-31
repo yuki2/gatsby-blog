@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Tech blog',
+  siteTitle: 'yuki Tech blog',
   siteDescription: 'Tech blog by yuki',
   authorName: 'yuki',
   authorDescription: 'Application Developer',
