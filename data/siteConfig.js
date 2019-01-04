@@ -1,5 +1,6 @@
 module.exports = {
   siteTitle: 'yuki Tech blog',
+  siteShortTitle: 'yuki blog',
   siteDescription:
     'Frontend(Android, iOS, React, React Native)を中心に調査したことをまとめたブログ',
   authorName: 'yuki',
