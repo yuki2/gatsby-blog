@@ -1,6 +1,7 @@
 module.exports = {
   siteTitle: 'yuki Tech blog',
-  siteDescription: 'Tech blog by yuki',
+  siteDescription:
+    'Frontend(Android, iOS, React, React Native)を中心に調査したことをまとめたブログ',
   authorName: 'yuki',
   authorDescription: 'Application Developer',
   siteUrl: 'https://blog-90eed.firebaseapp.com/',
